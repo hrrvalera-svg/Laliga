@@ -1,0 +1,55 @@
+body{
+            margin:0;
+            margin: 100px 0 0 0;
+        }
+        header{
+            position: fixed;
+            padding: 10px 5%;
+            background-color:black;
+            color: white;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+        }
+        header>*{
+            display: inline-block;
+            width:450px;
+        }
+        .emptiness{
+            width:10%;
+        }
+        header a{
+            text-decoration: none;
+            color: white;
+            margin:0 10px;
+        }
+        main{
+            background-image: url(fotos/2.jpg);
+        }
+
+        
+        footer{     
+            margin:0;
+            margin: 100px 0 0 0;
+            }
+        footer{
+                padding: 10px 5%;
+                background-color:black;
+                color: white;
+                top: 0px;
+                left: 0px;
+                width: 100%;
+        }
+        footer>*{
+            display: inline-block;
+            width:450px;
+        }
+        .emptiness{
+        width:10%;
+        }
+        footer a{
+            text-decoration: none;
+            color: white;
+            margin:0 10px;
+        }
+            
